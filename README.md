@@ -1,1 +1,1 @@
-In this project I'll make a simple recipes website with HTML.
+A simple Turkish recipes website with HTML.
