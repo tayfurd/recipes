@@ -1,1 +1,1 @@
-A simple Turkish recipes website with HTML.
+A simple Turkish recipes website.

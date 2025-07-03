@@ -1,0 +1,90 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: azure;
+    box-sizing: border-box;
+    font-size: 18px;
+}
+
+body {
+    max-width: 600px;
+    margin: auto;
+}
+
+.lahmacun {
+    object-position: 55% 25%;
+}
+
+.center {
+    text-align: center;
+}
+.turkish-food-img {
+    width: 600px;
+    height: auto;
+    margin: -310px 0px 0px 0px;
+}
+.crop-turkish-food {
+    width: 600px;
+    height: 600px;
+    overflow: hidden;
+}
+
+.cilbir-img {
+    width: 600px;
+    display: block;
+    margin: auto;
+}
+
+.ayran,
+.lahmacun {
+    width: 600px;
+    height: 600px;
+    object-fit: cover;
+}
+
+.lahmacun, .ayran, .cilbir-img, .crop-turkish-food {
+    display: block;
+    margin: auto;
+}
+
+
+
+#home-button {
+    background-color:rgba(204, 255, 229, 75%);
+    text-decoration: none;
+    color: black;
+    border-radius: 15px;
+    display: block;
+    text-align: center;
+    width: auto;
+    padding: 5px 25px;
+}
+
+#home:hover {
+    background-color:rgba(183, 250, 216, 100%);
+    color: black;
+    border-radius: 15px;
+    display: block;
+    text-align: center;
+}
+
+
+.list-recipes {
+    list-style: none;
+    display: flex;
+}
+
+.li1 {
+    background-color:rgba(204, 255, 229, 75%);
+    border: solid 2px rgba(191, 247, 218, 70%);
+    color: black;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: 15px;
+    padding: 5px 6px;
+    
+}
+
+.li1:hover {
+    background-color:rgba(183, 250, 216, 100%);
+    color:black;
+}
