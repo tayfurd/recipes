@@ -68,9 +68,10 @@ body {
 }
 
 
-.list-recipes {
-    list-style: none;
+.recipes-list {
     display: flex;
+    justify-content: center;
+    margin-top: 15px;
 }
 
 .li1 {
